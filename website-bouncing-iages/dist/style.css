@@ -1,0 +1,14 @@
+/* CSS */
+#bouncing-container {
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+    background-color: black; /* Optional background color */
+}
+
+.bouncing-image {
+    position: absolute;
+    width: 100px; /* Adjust image size */
+    height: auto;
+}
